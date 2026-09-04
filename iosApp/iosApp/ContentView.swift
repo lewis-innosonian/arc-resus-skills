@@ -2,15 +2,15 @@ import SwiftUI
 import shared
 
 struct ContentView: View {
-	let greet = Greeting().greet()
+    let message = MainBridge().getTestMessage()
 
-	var body: some View {
-		Text(greet)
-	}
+    var body: some View {
+       Text(message)
+    }
 }
 
 struct ContentView_Previews: PreviewProvider {
-	static var previews: some View {
-		ContentView()
-	}
+    static var previews: some View {
+       ContentView()
+    }
 }
