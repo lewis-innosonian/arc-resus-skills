@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:composeApp] /Users/innosonian/AndroidStudioProjects/arcresusskills2/composeApp/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared] /Users/innosonian/AndroidStudioProjects/arcresusskills2/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/3323415dc6c43df2cc8fe324c7965d2f/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/98ac45d5eff80409db19e7dfe6c249f6/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/4ef6a42aaa9fd87ca3fdf39234416f8f/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/f1b03dac58d527befe7733e4392dcf57/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/b949e543b9fa60165f9f0cc11d934790/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/8a792f69fa93275fd8e793bf36dc60e7/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/3e0ce2882a1ddaf2e138dbb7e37c16ab/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/731090438b4d3756d388287a83d63332/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/c9dd52c41d870ea11da8390c0482518f/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/ca201cdcdca82630171cb2403ef7ee76/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/e0c84fdeee200592f8432636422f9546/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/63857dd19967bce5554851e36c2f445d/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/280a4c27b58af5c285d1918d2ffdd21c/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f30897dec9be7827590d6358cbffee7/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/1b7cdd90398a72869f9027976b15b166/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/4a3d21c48cf75935c67e1094f1ab362d/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/246fc5c25fc092f18593f51ad42e94f5/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/e0f2162f717e687cbc9a97a5ccaac181/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/3c04fffad7f61dd8127319b88f29d5e1/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/2ce09a569a74234fe181ed106c112865/transformed/activity-compose-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.10] /Users/innosonian/.gradle/caches/8.11.1/transforms/efa0d36338e3a5b58b811b961ffe3152/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/0f1af8bfa58c895a4601403722a31e6a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/c235837159688cdb51f60fa851957110/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/d47f8dbc0069fd95046a8048aba5133d/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/c95b008ca99dd2fb2c50da48e57a023a/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/32a1c72824ce0f484a718c3098e4ab5f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/61d01fb9fa3a6c2bc1d73d90f0bd6d94/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/7e16bcd3f947e5ce12a4779ecc22eee3/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/0ccd1ceb7760a09ceef72ed291beb893/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/70a923c57ab017acf7ccf1324f81e7ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/f263505328726d315bdbbaf6091ad8a1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/75500b4d108c48a42fe99d2a7ac24f55/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/8b442c56a9ef48a39a4c0d66d48eb935/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/c5191322c22f0df22a7f0bb379eb0517/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/64fee536632386b5750314ec55679d2f/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/9996741f660ed4c384db1d198766c1c1/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/5c5b3c7718632e0577688816d61100b5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/f3dabef713f238e6d169fbe1b9baa57a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/3ee198f6cef6511c1680030c747371fd/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/dd1abed0ab7f24946a207da37a945a9e/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/9efaf65bcc4318169e58785f5d765480/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:4:5-16:19
+INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:4:5-16:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/4a3d21c48cf75935c67e1094f1ab362d/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/4a3d21c48cf75935c67e1094f1ab362d/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/70a923c57ab017acf7ccf1324f81e7ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/70a923c57ab017acf7ccf1324f81e7ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/5c5b3c7718632e0577688816d61100b5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/5c5b3c7718632e0577688816d61100b5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/f3dabef713f238e6d169fbe1b9baa57a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/f3dabef713f238e6d169fbe1b9baa57a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:6:9-35
+	android:allowBackup
+		ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:5:9-36
+	android:theme
+		ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:7:9-40
+activity#com.innosonian.arcresus.android.MainActivity
+ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:8:9-15:20
+	android:exported
+		ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:9:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml
+MERGED from [:composeApp] /Users/innosonian/AndroidStudioProjects/arcresusskills2/composeApp/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:composeApp] /Users/innosonian/AndroidStudioProjects/arcresusskills2/composeApp/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/innosonian/AndroidStudioProjects/arcresusskills2/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/innosonian/AndroidStudioProjects/arcresusskills2/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/3323415dc6c43df2cc8fe324c7965d2f/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/3323415dc6c43df2cc8fe324c7965d2f/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/98ac45d5eff80409db19e7dfe6c249f6/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/98ac45d5eff80409db19e7dfe6c249f6/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/4ef6a42aaa9fd87ca3fdf39234416f8f/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/4ef6a42aaa9fd87ca3fdf39234416f8f/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/f1b03dac58d527befe7733e4392dcf57/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/f1b03dac58d527befe7733e4392dcf57/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/b949e543b9fa60165f9f0cc11d934790/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/b949e543b9fa60165f9f0cc11d934790/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/8a792f69fa93275fd8e793bf36dc60e7/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/8a792f69fa93275fd8e793bf36dc60e7/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/3e0ce2882a1ddaf2e138dbb7e37c16ab/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/3e0ce2882a1ddaf2e138dbb7e37c16ab/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/731090438b4d3756d388287a83d63332/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/731090438b4d3756d388287a83d63332/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/c9dd52c41d870ea11da8390c0482518f/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/c9dd52c41d870ea11da8390c0482518f/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/ca201cdcdca82630171cb2403ef7ee76/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/ca201cdcdca82630171cb2403ef7ee76/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/e0c84fdeee200592f8432636422f9546/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/e0c84fdeee200592f8432636422f9546/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/63857dd19967bce5554851e36c2f445d/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/63857dd19967bce5554851e36c2f445d/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/280a4c27b58af5c285d1918d2ffdd21c/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/280a4c27b58af5c285d1918d2ffdd21c/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f30897dec9be7827590d6358cbffee7/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f30897dec9be7827590d6358cbffee7/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/1b7cdd90398a72869f9027976b15b166/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/1b7cdd90398a72869f9027976b15b166/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/4a3d21c48cf75935c67e1094f1ab362d/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/4a3d21c48cf75935c67e1094f1ab362d/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/246fc5c25fc092f18593f51ad42e94f5/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/246fc5c25fc092f18593f51ad42e94f5/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/e0f2162f717e687cbc9a97a5ccaac181/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/e0f2162f717e687cbc9a97a5ccaac181/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/3c04fffad7f61dd8127319b88f29d5e1/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/3c04fffad7f61dd8127319b88f29d5e1/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/2ce09a569a74234fe181ed106c112865/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/2ce09a569a74234fe181ed106c112865/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.10] /Users/innosonian/.gradle/caches/8.11.1/transforms/efa0d36338e3a5b58b811b961ffe3152/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.10] /Users/innosonian/.gradle/caches/8.11.1/transforms/efa0d36338e3a5b58b811b961ffe3152/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/0f1af8bfa58c895a4601403722a31e6a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/0f1af8bfa58c895a4601403722a31e6a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/c235837159688cdb51f60fa851957110/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/c235837159688cdb51f60fa851957110/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/d47f8dbc0069fd95046a8048aba5133d/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/d47f8dbc0069fd95046a8048aba5133d/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/c95b008ca99dd2fb2c50da48e57a023a/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/c95b008ca99dd2fb2c50da48e57a023a/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/32a1c72824ce0f484a718c3098e4ab5f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/32a1c72824ce0f484a718c3098e4ab5f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/61d01fb9fa3a6c2bc1d73d90f0bd6d94/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/61d01fb9fa3a6c2bc1d73d90f0bd6d94/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/7e16bcd3f947e5ce12a4779ecc22eee3/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/7e16bcd3f947e5ce12a4779ecc22eee3/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/0ccd1ceb7760a09ceef72ed291beb893/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/0ccd1ceb7760a09ceef72ed291beb893/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/70a923c57ab017acf7ccf1324f81e7ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/70a923c57ab017acf7ccf1324f81e7ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/f263505328726d315bdbbaf6091ad8a1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/f263505328726d315bdbbaf6091ad8a1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/75500b4d108c48a42fe99d2a7ac24f55/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/75500b4d108c48a42fe99d2a7ac24f55/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/8b442c56a9ef48a39a4c0d66d48eb935/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/8b442c56a9ef48a39a4c0d66d48eb935/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/c5191322c22f0df22a7f0bb379eb0517/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/c5191322c22f0df22a7f0bb379eb0517/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/64fee536632386b5750314ec55679d2f/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/64fee536632386b5750314ec55679d2f/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/9996741f660ed4c384db1d198766c1c1/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/9996741f660ed4c384db1d198766c1c1/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/5c5b3c7718632e0577688816d61100b5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/5c5b3c7718632e0577688816d61100b5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/f3dabef713f238e6d169fbe1b9baa57a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/f3dabef713f238e6d169fbe1b9baa57a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/3ee198f6cef6511c1680030c747371fd/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/3ee198f6cef6511c1680030c747371fd/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/dd1abed0ab7f24946a207da37a945a9e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/dd1abed0ab7f24946a207da37a945a9e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/9efaf65bcc4318169e58785f5d765480/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/9efaf65bcc4318169e58785f5d765480/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/innosonian/AndroidStudioProjects/arcresusskills2/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/4a3d21c48cf75935c67e1094f1ab362d/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/4a3d21c48cf75935c67e1094f1ab362d/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/innosonian/.gradle/caches/8.11.1/transforms/4a3d21c48cf75935c67e1094f1ab362d/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/70a923c57ab017acf7ccf1324f81e7ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/70a923c57ab017acf7ccf1324f81e7ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/f3dabef713f238e6d169fbe1b9baa57a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/f3dabef713f238e6d169fbe1b9baa57a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/cf817c164b9b39aa9c698cc875e05254/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.innosonian.arcresus.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.innosonian.arcresus.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/innosonian/.gradle/caches/8.11.1/transforms/00b098b35462e851441f2fefd3ea50c5/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/70a923c57ab017acf7ccf1324f81e7ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/70a923c57ab017acf7ccf1324f81e7ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/innosonian/.gradle/caches/8.11.1/transforms/70a923c57ab017acf7ccf1324f81e7ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/innosonian/.gradle/caches/8.11.1/transforms/8f1015a4b8579e80b501ed5e79c91ab4/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
