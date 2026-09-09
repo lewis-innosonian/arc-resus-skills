@@ -1,1 +1,0 @@
-com.innosonian.arcresus.composeapp
